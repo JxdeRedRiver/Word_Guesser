@@ -1,0 +1,2 @@
+C:\Users\JudeEllis\RiderProjects\wordGuesser\wordGuesser\bin\Release\net7.0\win-x64\publish\wordGuesser.pdb
+C:\Users\JudeEllis\RiderProjects\wordGuesser\wordGuesser\bin\Release\net7.0\win-x64\publish\wordGuesser.exe
