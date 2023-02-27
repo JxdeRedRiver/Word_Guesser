@@ -1,0 +1,15 @@
+C:\Users\JudeEllis\RiderProjects\wordGuesser\wordGuesser\bin\Release\net7.0\wordGuesser.exe
+C:\Users\JudeEllis\RiderProjects\wordGuesser\wordGuesser\bin\Release\net7.0\wordGuesser.deps.json
+C:\Users\JudeEllis\RiderProjects\wordGuesser\wordGuesser\bin\Release\net7.0\wordGuesser.runtimeconfig.json
+C:\Users\JudeEllis\RiderProjects\wordGuesser\wordGuesser\bin\Release\net7.0\wordGuesser.dll
+C:\Users\JudeEllis\RiderProjects\wordGuesser\wordGuesser\bin\Release\net7.0\wordGuesser.pdb
+C:\Users\JudeEllis\RiderProjects\wordGuesser\wordGuesser\obj\Release\net7.0\wordGuesser.csproj.AssemblyReference.cache
+C:\Users\JudeEllis\RiderProjects\wordGuesser\wordGuesser\obj\Release\net7.0\wordGuesser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JudeEllis\RiderProjects\wordGuesser\wordGuesser\obj\Release\net7.0\wordGuesser.AssemblyInfoInputs.cache
+C:\Users\JudeEllis\RiderProjects\wordGuesser\wordGuesser\obj\Release\net7.0\wordGuesser.AssemblyInfo.cs
+C:\Users\JudeEllis\RiderProjects\wordGuesser\wordGuesser\obj\Release\net7.0\wordGuesser.csproj.CoreCompileInputs.cache
+C:\Users\JudeEllis\RiderProjects\wordGuesser\wordGuesser\obj\Release\net7.0\wordGuesser.dll
+C:\Users\JudeEllis\RiderProjects\wordGuesser\wordGuesser\obj\Release\net7.0\refint\wordGuesser.dll
+C:\Users\JudeEllis\RiderProjects\wordGuesser\wordGuesser\obj\Release\net7.0\wordGuesser.pdb
+C:\Users\JudeEllis\RiderProjects\wordGuesser\wordGuesser\obj\Release\net7.0\wordGuesser.genruntimeconfig.cache
+C:\Users\JudeEllis\RiderProjects\wordGuesser\wordGuesser\obj\Release\net7.0\ref\wordGuesser.dll
