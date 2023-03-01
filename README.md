@@ -12,6 +12,12 @@ To run this game, you need to have the following installed:
 
 To play the game you can download the latest release [here](https://github.com/JxdeRedRiver/Word_Guesser/releases/tag/v1.01)
 
+- Once you have the Word.Guesser.zip file downloaded you can extract the zip folder to any location desired
+
+- You will now have a folder called Word.Guesser and inside this folder another folder called Word Guesser
+
+- Inside the Word Guesser folder you will find a wordGuesser.exe and a words.txt
+
 ## How to Play
 
    1. Run the program.
